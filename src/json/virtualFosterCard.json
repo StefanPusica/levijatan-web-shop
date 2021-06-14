@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Simke",
+        "sex": "Mužjak",
+        "old": "Dve i po godine",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona, zna da se šeta na povodcu.",
+        "desc": "Simke je imao prelom kičme, sada je oporavljen i rehabilitovan.",
+        "img": "http://levijatan.org/images/simke.jpeg"
+      },
+      {
+        "name": "Marko",
+        "sex": "Mužjak",
+        "old": "Godinu dana",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Slaže se sa psima iz pansiona, ne zna da se šeta na povodcu. Veseo je i razigran.",
+        "desc": "Marko je bolovao od demodeksa koji je izlečen.",
+        "img": "http://levijatan.org/images/Marko.jpeg"
+      },
+      {
+        "name": "Lemi",
+        "sex": "Mužjak",
+        "old": "Godinu i po dana",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Veoma je hiperaktivan i veseo pas, zna da se šeta na povodcu.",
+        "desc": "Lemi ima osetljivu kožu.",
+        "img": "http://levijatan.org/images/Lemi.jpeg"
+      },
+      {
+        "name": "Mila",
+        "sex": "Ženka",
+        "old": "3 godine",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Slaže se sa psima iz pansiona, ali je potreban odgovoran vlasnik, poznavalac rase. Zna da šeta na povodcu.",
+        "desc": "Mila je živela na lancu pre nego što je spašena, korišćena je za reprodukciju i to joj je ostavilo posledice, potrebno je posvetiti joj puno pažnje i brige kako bi se socijalizovala.",
+        "img": "http://levijatan.org/images/mila.jpeg"
+      },
+      {
+        "name": "Vera",
+        "sex": "Ženka",
+        "old": "3 godine",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Hiperaktivna je i vesela, slaže se sa psima iz pansiona, zna da se šeta na povodcu.",
+        "desc": "Vera je nađena sa usečenom žicom u vratu, sada je oporavljena.",
+        "img": "http://levijatan.org/images/Vera.jpeg"
+      },
+      {
+        "name": "Bleka",
+        "sex": "Ženka",
+        "old": "3 godine",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Bleka je veseo pas, slaže se sa drugim psima iz pansiona, ali voli da beži. Zna da se šeta na povodcu.",
+        "desc": "/",
+        "img": "http://levijatan.org/images/bleka.jpeg"
+      },
+      {
+        "name": "Hans",
+        "sex": "Mužjak",
+        "old": "Godinu i po dana",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Ne slaže se dobro sa drugim psima, sa ljudima je druželjubiv. Ne zna da se šeta na povodcu.",
+        "desc": "/",
+        "img": "http://levijatan.org/images/hans.jpeg"
+      },
+      {
+        "name": "Vuki",
+        "sex": "Mužjak",
+        "old": "2 godine",
+        "castration": "Da",
+        "vaccinated": "Da",
+        "performance": "Hiperaktivan pas, slaže se sa ženkama, ali ne i sa mužjacima, zna da se šeta na povodcu.",
+        "desc": "/",
+        "img": "http://levijatan.org/images/vuki.jpeg"
+      },
+  {
+    "name": "Zmaj",
+    "sex": "Mužjak",
+    "old": "10 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona.",
+    "desc": "Zmaju su povređene zadnje noge, teško ustaje, on je na fizikalnoj terapiji i kreće se uz pomoć kolica.",
+    "img": "http://levijatan.org/images/zmaj.jpg"
+  },
+  {
+    "name": "Odin",
+    "sex": "Mužjak",
+    "old": "2 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona.",
+    "desc": "Odinu je povređena kičma, nepokretan je, kreće se uz pomoć kolica i na fizikalnoj terapiji je. ",
+    "img": "http://levijatan.org/images/odin.jpg"
+  },
+  {
+    "name": "Logan",
+    "sex": "Mužjak",
+    "old": "Godinu dana",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Pas je druželjubiv, slaže se sa psima iz pansiona.",
+    "desc": "Logan boluje od demodeksa.",
+    "img": "https://levijatansrbija.org/images/backwithlogo.jpg"
+  },
+  {
+    "name": "Kaja",
+    "sex": "Ženka",
+    "old": "9 godina",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Ne slaže se sa drugim psima, ali je dobra sa ljudima.",
+    "desc": "Boluje od dirofilarije.",
+    "img": "http://levijatan.org/images/kaja.jpg"
+  },
+  {
+    "name": "Čarna",
+    "sex": "Ženka",
+    "old": "3 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Agresivna je i prema drugim psima i prema ljudima.",
+    "desc": "Boluje od dirofilarije",
+    "img": "http://levijatan.org/images/carna.jpeg"
+  },
+  {
+    "name": "Nea",
+    "sex": "Ženka",
+    "old": "6 godina",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Nepoverljiva je prema drugim psima, ali je dobra sa ljudima.",
+    "desc": "Boluje od dirofilarije.",
+    "img": "http://levijatan.org/images/nea.jpeg"
+  },
+  {
+    "name": "Vučko",
+    "sex": "Mužjak",
+    "old": "Dve i po godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Slaže se sa drugim psima iz pansiona, veseo je pas, ali je jako nepoverljiv prema ljudima. Zna da se šeta na povodcu.",
+    "desc": "/",
+    "img": "http://levijatan.org/images/vucko.jpeg"
+  },
+  {
+    "name": "Gina",
+    "sex": "Ženka",
+    "old": "7 godina",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Gina je nepoverljiva i agresivna prema ljudima i psima.",
+    "desc": "Boluje od dirofilarije.",
+    "img": "http://levijatan.org/images/gina.jpeg"
+  },
+  {
+    "name": "Princ",
+    "sex": "Mužjak",
+    "old": "3 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona, zna da se šeta na povodcu.",
+    "desc": "/",
+    "img": "http://levijatan.org/images/princ.jpg"
+  },
+  {
+    "name": "Crni",
+    "sex": "Mužjak",
+    "old": "3 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona, zna da se šeta na povodcu.",
+    "desc": "Crni nema levo oko.",
+    "img": "http://levijatan.org/images/crni.jpg"
+  },
+  {
+    "name": "Lea",
+    "sex": "Ženka",
+    "old": "4 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Lea je nepoverljiva prema ljudima, usled dugogodišnjeg zlostavljanja od strane prethodnih vlasnika. Neuhranjena je.",
+    "desc": "Ispod vrata ima ožiljak od lanca kojim je bila vezana. Trpela je dugogodišnje fizičko zlostavljanje.",
+    "img": "http://levijatan.org/images/Lea.jpeg"
+  },
+  {
+    "name": "Pita",
+    "sex": "Ženka",
+    "old": "3 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona, malo je uplašena, jer je dugo bila fizički zlostavljana.",
+    "desc": "/",
+    "img": "http://levijatan.org/images/pita.jpeg"
+  },
+  {
+    "name": "Višnja",
+    "sex": "Ženka",
+    "old": "2 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Veseo pas, druželjubiv, slaže se sa psima iz pansiona, malo je uplašena, jer je dugo bila fizički zlostavljana.",
+    "desc": "Višnji je rep isečen.",
+    "img": "http://levijatan.org/images/visnja.jpeg"
+  },
+  {
+    "name": "Luna",
+    "sex": "Ženka",
+    "old": "3 godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Luna je mirna, pomalo uplašena, lepo se slaže sa ljudima i psima iz pansiona. ",
+    "desc": "Luna je upucana sa velike blizine u vrat i leđa, sačma joj se nalazi po celom telu i u kičmenom stubu, na vratu je imala ogromnu otvorenu ranu koja je operisana. ",
+    "img": "http://levijatan.org/images/luna.jpg"
+  },
+  {
+    "name": "Bond",
+    "sex": "Mužjak",
+    "old": "Dve i po godine",
+    "castration": "Da",
+    "vaccinated": "Da",
+    "performance": "Pas je veseo i lepo se slaže sa ljudima i psima iz pansiona.",
+    "desc": "Bondu je odsečena cela donja vilica, odrađena je operacija rekonstrukcije vilice kako bi mogao da jede adekvatno.",
+    "img": "http://levijatan.org/images/bond.jpg"
+  },
+  {
+    "name": "Boris",
+    "sex": "Mužjak",
+    "old": "Jedna i po godina",
+    "castration": "Ne",
+    "vaccinated": "Da",
+    "performance": "",
+    "desc": "Boris nema levo oko",
+    "img": "http://levijatan.org/images/boris2.jpg"
+  }
+]

@@ -1,0 +1,25 @@
+.adopt {
+    background-image: url("../images/backwithlogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #ffffff;
+    margin-top: -22px;
+    padding: 25px 20px;
+    min-height: 80vh;
+}
+.adopt h1 {
+    text-align: center;
+    position: relative;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+.adopt p {
+    font-family: ubuntu;
+}
+@media only screen and (max-width: 768px) {
+    .adopt {
+      background-image: url("../images/background.jpg");
+    }
+}

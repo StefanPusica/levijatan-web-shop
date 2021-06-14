@@ -1,0 +1,86 @@
+.become-virtual-foster{
+    background-image: url("../images/backwithlogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #ffffff;
+    margin-top: -22px;
+    padding: 25px 20px;
+    min-height: 80vh;
+    font-family: ubuntu;
+}
+.become-virtual-foster{
+    display: flex;
+    flex-direction: column;
+}
+.side-text{
+    margin-left: 20px;
+    color: black;
+    padding-top: 20px;
+}
+.become-virtual-foster .side-text p{
+    margin: 0;
+}
+.main-form-title{
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+}
+.become-virtual-foster .wrapper{
+    width: 65%;
+    padding: 0 70px;
+    margin-top: 30px;
+    background-color: white;
+}
+.main-form p{
+    color: black;
+    /* padding: 0 20px; */
+}
+.styled-input{
+    margin-top: 10px;
+    border: 1px solid black;
+}
+.input-text .main-text{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.input-text .check-text{
+    display: flex;
+    align-items: center;
+}
+.input-text .check-text input{
+    width: 6%;
+}
+.input-text-paragraph{
+    margin-top: 10px;
+}
+.date{
+    margin-top: 20px;
+    display: flex;
+    max-width: 300px;
+    align-items: center;
+}
+.signature{
+    margin-top: 20px;
+    display: flex;
+    max-width: 300px;
+    flex-direction: column;
+}
+.p-text span{
+    color: red;
+}
+.date-text span{
+    color: red;
+}
+
+@media only screen and (max-width: 768px) {
+    .become-virtual-foster .wrapper {
+        padding: 0 10px;
+        width: unset !important;
+        max-width: 100%;
+    }
+    .become-virtual-foster .styled-input {
+        width: unset !important;
+    }
+}

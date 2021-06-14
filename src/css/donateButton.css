@@ -1,0 +1,35 @@
+.button-wrapper {
+    min-width: 200px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.button-wrapper button {
+    transition: all 0.3s ease-in-out;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: levijatan;
+    letter-spacing: 3px;
+    max-width: 200px;
+}
+.button-wrapper button:hover {
+    background: rgba(255,255,255, 0.7);
+}
+.modal-wrapper {
+    text-align: center;
+    padding: 0 20px;
+    color: #000;
+}
+.modal-wrapper p {
+    font-family: ubuntu;
+}
+.modal-wrapper .button-wrapper button {
+    color: #ffffff;
+}
+.modal-wrapper .button-wrapper button:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+.modal-wrapper .credit-cards {
+    flex-direction: column;
+    align-items: center;
+}

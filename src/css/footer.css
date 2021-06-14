@@ -1,0 +1,129 @@
+footer {
+    color: #fff;
+}
+.footer-top {
+    background-color: #0a0a0a;
+}
+footer .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.footer-logo {
+    max-width: 115px;
+    position: relative;
+}
+.footer-logo img {
+    width: 100%;
+}
+.footer-text p {
+    text-align: justify;
+    font-family: ubuntu;
+}
+.footer-text p span {
+    color: red;
+}
+
+.footer-logo::before {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 10rem;
+    margin: 0 1rem;
+    transform: translateY(-1rem);
+    position: absolute;
+    left: -200px;
+    top: 50%;
+}
+.footer-logo::after {
+    display: inline-block;
+    content: "";
+    border-top: .2rem solid #fff;
+    width: 10rem;
+    margin: 0 1rem;
+    transform: translateY(-1rem);
+    position: absolute;
+    right: -200px;
+    top: 50%;
+}
+.footer-bottom {
+    background-color: #000000;
+}
+.footer-bottom-box-img {
+    max-width: 110px;
+}
+.footer-bottom-box-img img {
+    width: 100%;
+}
+.footer-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+.footer-bottom-box {
+    min-width: 200px;
+}
+.footer-wrapper li {
+    color: #444c44;
+    list-style: none;
+    cursor: pointer;
+}
+.footer-wrapper li a {
+    transition: all 0.3s ease-in-out;
+}
+.footer-wrapper li a:hover {
+    color: #ffffff;
+}
+.footer-box-title {
+    color: #ffffff!important;
+}
+.footer-icons a {
+    font-size: 30px;
+    color: #fff;
+    margin: 10px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+.footer-icons a:hover {
+    color: #444c44;;
+}
+.footer-wrapper ul {
+    padding: 0;
+}
+.copyright {
+    width: 100%;
+    text-align: left;
+    color: #444c44;
+    font-family: ubuntu;
+}
+.footer-wrapper li a {
+    color: #444c44;
+}
+.desktop-nav a {
+    color: #ffffff;
+    font-size: 20px;
+}
+.mobile-nav a {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.footer-title {
+    font-size: 25px;
+}
+.footer-text-desc {
+    text-align: right!important;
+}
+@media only screen and (max-width: 550px) {
+    .footer-wrapper {
+        flex-direction: column;
+    }
+    .footer-bottom-box-img {
+        margin: 0 auto;
+    }
+    .copyright p {
+        text-align: center;
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "img": "https://www.levijatansrbija.org/images/silver.jpg",
+        "desc": "Silver kartica-Personalizovana kartica koja iznosi 10e mesečno.Uz obnavljanje nakon 3 meseca i više dobijate belu support majicu sa kragnom i 20% popusta na artikle koje budemo lansirali.",
+        "alt": "silver card"
+    },
+    {
+        "img": "https://www.levijatansrbija.org/images/gold.jpg ",
+        "desc": "Gold kartica-Personalizovana kartica koja iznosi 25e mesečno i ona se može obnavljati na mesec dana. Ova kartica Vam omogućava kupovinu artikala sa popustom od 30%. Ukoliko članarinu obnavljate na 6  ili 12 meseci dobijate majicu, duks i šolju na poklon i 2 artikla besplatna u toku godine.",
+        "alt": "gold card"
+    },
+    {
+        "img": "https://www.levijatansrbija.org/images/blackvip.jpg",
+        "desc": "Black Vip kartica-Personalizovana kartica koja iznosi 50e, može se mesečno obnavljati i dobijate 50% popusta na artikle. Ukoliko članarinu obnavljate na 3,6 i 12 meseci dobijate majicu, duks i šolju i 6,7 artikala na poklon u toku godine. Dodatna povlastica je pristup Vip delu našeg sajta sa neobjavljenim video materijalom.",
+        "alt": "blackvip card"
+    }
+]
